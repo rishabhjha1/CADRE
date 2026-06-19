@@ -1,7 +1,7 @@
 # CADRE — Continual Adaptation with Domain-Robust Embeddings
 
 > Supplementary experiment scripts for the CADRE paper.  
-> Reproduces **tab:attrib**, **tab:sens**, **tab:matrix**, and **fig_reliability** from §4–§5.
+
 
 ***
 
